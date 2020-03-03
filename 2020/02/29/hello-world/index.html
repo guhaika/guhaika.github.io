@@ -256,6 +256,40 @@
     
     
 
+<div>
+     
+       
+<div class="my_post_copyright">
+<div style="text-align:center;color: #ccc;font-size:14px;">
+------copyright------</div>
+ <script src="//cdn.bootcss.com/clipboard.js/1.5.10/clipboard.min.js"></script>
+ 
+ <p><span>Title:</span><a href="/2020/02/29/hello-world/">Hello World</a></p>
+ <p><span>Auther:</span><a href="/" title="Visit Hill 's blog">Hill</a></p>
+ <p><span>Time:</span>2020/02/29 - 23:54</p>
+ <p><span>update:</span>2020/03/03 - 11:46</p>
+ <p><span>link:</span><a href="/2020/02/29/hello-world/" title="Hello World">http://yoursite.com/2020/02/29/hello-world/</a>
+    <span class="copy-path"  title="click to copy the url"><i class="fa fa-clipboard" data-clipboard-text="http://yoursite.com/2020/02/29/hello-world/"  aria-label="successful!"></i></span>
+ </p>
+ <p><span>License:</span><i class="fa fa-creative-commons"></i> <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" title="Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)">All rights reserved</a> Copying without permission is forbidden.</p>  
+</div>
+<script> 
+   var clipboard = new Clipboard('.fa-clipboard');
+   $(".fa-clipboard").click(function(){
+     clipboard.on('success', function(){
+       swal({   
+         title: "",   
+         text: 'copy successfully',
+         icon: "success", 
+         showConfirmButton: true
+         });
+ 	 });
+   });  
+</script>
+
+
+     
+</div>
       <footer class="post-footer">
 
         
