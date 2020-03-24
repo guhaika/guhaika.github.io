@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>想和你一起作答的36个问题</title>
-    <url>/2020/03/11/36-questions/</url>
+    <url>/36-questions/</url>
     <content><![CDATA[<p>这是一系列非常著名的问题。起源于美国人曼迪·莱恩·卡特隆(Mandy Len Catron)为“现代爱情”专栏写了一篇文章《如何快速与陌生人相爱》，她在文中提到心理学家阿瑟·亚伦(Arthur Aron)等人的研究成果：两个陌生人之间的亲密关系或许可以通过彼此询问一些特别的个人化问题而快速升温。</p>
 <p>这36个问题在不同的地方可能出现的版本不尽相同，这里选取的是纽约时报中文版上发布的翻译版本。以及我的真诚作答。</p>
 <h2 id="第一组"><a href="#第一组" class="headerlink" title="第一组"></a>第一组</h2><p>1，如果可以在世界上所有人中任意选择，你想邀请谁共进晚餐？</p>
@@ -159,7 +159,7 @@
   </entry>
   <entry>
     <title>印度的气象灾害</title>
-    <url>/2020/03/09/India-weather/</url>
+    <url>/India-weather/</url>
     <content><![CDATA[<p>　　说起印度，你首先想到的是什么呢？是宏伟壮观的泰姬陵，还是那些超载的挂票火车？是各式各样的咖喱糊糊，还是一言不合就尬舞的宝莱坞电影？其实，印度作为我们国家最大的邻国之一，我们对印度的认识并不多。下面我就从气象灾害的方面给大家简要介绍一下印度。</p>
 <h3 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h3><p>　　首先我们看一下印度这个国家的概况。印度是南亚地区最大的国家，国土面积328.7万km<sup>2</sup>（2017，world bank），在全世界排第7位。2018年联合国公布的数据显示，印度人口13.54亿，在全世界排第2位，仅次于中国。</p>
 <p>　　从地理位置上来看，印度北部是世界第一山脉——喜马拉雅山，中部是恒河平原，西部塔尔沙漠，南部德干高原。印度半岛的西部是阿拉伯海，东部濒临孟加拉湾。喜马拉雅山对印度的气候具有重要的作用，它一方面阻挡了冬季由亚洲大陆吹来的寒风，使得印度免受冷空气的侵袭；另一方面又阻挡了夏季由印度洋上吹来的夏季风，使印度中部恒河平原和喜马拉雅山以南地区可以得到充足的雨水。</p>
@@ -287,7 +287,7 @@
   </entry>
   <entry>
     <title>大气中的水</title>
-    <url>/2020/02/29/hello-world/</url>
+    <url>/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
 <h2 id="神奇的水"><a href="#神奇的水" class="headerlink" title="神奇的水"></a>神奇的水</h2><h3 id="水的物理化学特性"><a href="#水的物理化学特性" class="headerlink" title="水的物理化学特性"></a>水的物理化学特性</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
 

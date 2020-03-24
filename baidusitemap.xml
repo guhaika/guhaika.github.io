@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://www.daqikexue.com/2020/02/29/hello-world/</loc>
+    <loc>http://www.daqikexue.com/hello-world/</loc>
     <lastmod>2020-03-24</lastmod>
   </url>  <url>
-    <loc>http://www.daqikexue.com/2020/03/09/India-weather/</loc>
+    <loc>http://www.daqikexue.com/India-weather/</loc>
     <lastmod>2020-03-24</lastmod>
   </url>  <url>
-    <loc>http://www.daqikexue.com/2020/03/11/36-questions/</loc>
+    <loc>http://www.daqikexue.com/36-questions/</loc>
     <lastmod>2020-03-10</lastmod>
   </url>
 </urlset>
