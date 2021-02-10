@@ -1,6 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>租房如何提取国管公积金</title>
+    <url>/gongjijin/</url>
+    <content><![CDATA[<p>　　本人最近租房想要了解一下租房提取公积金的相关事项和流程等，结果发现网上的信息各不相同，且存在很多互相矛盾之处，下面结合自身的经历简要介绍一下租房提取公积金的相关事项。<strong>注意</strong>，这里介绍的是<strong>国管公积金</strong>，市管公积金的相关政策可能存在不同。
+　</p>
+<h3 id="两种提取额度"><a href="#两种提取额度" class="headerlink" title="两种提取额度"></a>两种提取额度</h3><p>　　目前，北京地区租房提取国管公积金，有两种额度限制。</p>
+<p>　　<strong>第一种</strong>，也就是最常见的，每月提取1500元。如果你想要按照此类提取，那就非常简单了。首先关注中央国家机关住房资金管理中心的微信公众号，用自己的信息登陆之后，选择“租房提取”业务，填写租房地址、起租日期和租房月数，就可以完成每月1500元的公积金提取了。</p>
+<p>　　<strong>第二种</strong>，如果你的房租比较高，觉得每月1500元太少了，也没关系，按照相关规定，只要你满足以下四个条件之一就可以提取高于1500元的公积金：</p>
+<ol>
+<li><p>通过北京市住房租赁监管服务平台登记备案租房的,持申请提取职工身份证原件，按季以租金实际发生金额为限提取住房公积金。</p>
+</li>
+<li><p>十八大以来参加精准扶贫工作的人员，持单位扶贫工作证明可一次性提取本人账户余额支付房租等费用支出。</p>
+</li>
+<li><p>在北京市无房的新就业大学生，持学历证明在入职三年内可提取本人账户余额用于支付房租等费用支出。</p>
+</li>
+<li><p>在北京市无房的职工家庭生育二孩的，持户口本可在二孩出生三年内提取住房公积金账户余额用于支付房租等费用支出。</p>
+</li>
+</ol>
+<p>具体的规定见 </p>
+<blockquote>
+<p><a href="http://wzchx.zzz.gov.cn/app/nonbsn/14885.html?channelCode=1004&amp;msgFlag=" target="_blank" rel="noopener">http://wzchx.zzz.gov.cn/app/nonbsn/14885.html?channelCode=1004&amp;msgFlag=</a></p>
+</blockquote>
+<p><strong><em>但是需要注意，提取金额高于1500元时，必须携带相关材料去银行柜台办理。</em></strong></p>
+<p>###按季以租金实际发生金额为限提取住房公积金###</p>
+<p>　　我本人的情况属于满足第一条的情况，所以简要介绍一下这部分的流程。</p>
+<p>　　<strong>第一步</strong>，联系负责你单位的国管公积金的银行。如果你不知道是哪个银行，先联系你的单位的计财部门，问一下是哪家银行负责你们的公积金缴存业务，然后联系那家银行，问清楚租房提取公积金需要提供哪些材料。</p>
+<p>　　<strong>第二步</strong>，备齐相关材料。比如我办理时，银行人员告知我需要携带本人身份证原件、租房合同原件、房主身份证复印件、房本复印件以及备案编号和一张该银行的储蓄卡，但实际办理时自己的的身份证和租房合同也是需要复印的，所以想要快一点的话可以自己复印好一并带过去。如果你是在正规的中介平台租房的话，他们一般在3天之内就会给你备案的，如果是自己和房东签的合同，也可以自己去备案，好像也不是很麻烦。备案完成后可以在北京市住房和城乡建设委员会的网站查询备案号，在下面地址页面的中间位置，有“住房租赁备案查询”界面，点击“备案编号”下方的查询按钮：</p>
+<blockquote>
+<p><a href="http://zjw.beijing.gov.cn/bjjs/fwgl/index.shtml" target="_blank" rel="noopener">http://zjw.beijing.gov.cn/bjjs/fwgl/index.shtml</a></p>
+</blockquote>
+<p>第一次办理完成后，以后每次虽然还需要去柜台办理，但只需要提供本人身份证和建行卡就可以了。</p>
+<p>　　<strong>第三步</strong>，在银行等待。公积金业务办理流程一般比较复杂，耗时较长，在银行等待的时间一般较长，请务必问清楚公积金业务办理的时间段（我在建行办理的，他们办理时间是早9:00-12:00，下午1:00-4:30）并早点过去排队。</p>
+<p>　　<strong><em>生活不易，租房不易，祝大家都能好好利用公积金，住上自己满意的房子。</em></strong></p>
+]]></content>
+      <categories>
+        <category>小知识</category>
+      </categories>
+      <tags>
+        <tag>公积金</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>如何下载ERA5再分析数据</title>
     <url>/Download-ERA5/</url>
     <content><![CDATA[<h2 id="1-CDS注册和登录"><a href="#1-CDS注册和登录" class="headerlink" title="1.CDS注册和登录"></a>1.CDS注册和登录</h2><p>ERA5从2019年3月5日开始，只能使用CDS API进行下载，需要注册CDS用户，</p>
@@ -60,8 +101,8 @@
         <category>科普</category>
       </categories>
       <tags>
-        <tag>冰雹</tag>
         <tag>灾害</tag>
+        <tag>冰雹</tag>
       </tags>
   </entry>
   <entry>
@@ -404,8 +445,8 @@
         <category>科普</category>
       </categories>
       <tags>
-        <tag>灾害</tag>
         <tag>印度</tag>
+        <tag>灾害</tag>
       </tags>
   </entry>
   <entry>
