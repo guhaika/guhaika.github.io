@@ -132,6 +132,22 @@
       </tags>
   </entry>
   <entry>
+    <title>关于conda报错an unexpected error has occurred. conda has prepared the above report的解决办法</title>
+    <url>/conda/</url>
+    <content><![CDATA[<h2 id="发现问题"><a href="#发现问题" class="headerlink" title="发现问题"></a>发现问题</h2><p>一开始是要安装ffmpeg，conda和pip安装都没有成功，在网上搜索发现正确的步骤是</p>
+<p><code>conda update conda</code></p>
+<p><code>conda install ffmpeg</code></p>
+<p>然后我就发现conda没法升级，conda update conda之后会提示出错<code>an unexpected error has occurred. conda has prepared the above report</code></p>
+<h2 id="解决问题"><a href="#解决问题" class="headerlink" title="解决问题"></a>解决问题</h2><p>在网上搜索了一下，发现确实有很多人都遇到了这个问题，但是解决办法五花八门。</p>
+<h3 id="1-删除-condarc文件"><a href="#1-删除-condarc文件" class="headerlink" title="1.    删除.condarc文件"></a>1.    删除.condarc文件</h3><p>这个文件一般位于C:\User\Administrator.condarc，如果设置了清华/中科大源，里面会保存这些镜像源的地址，删除了这个文件其实就是类似于恢复使用官方源。</p>
+<h3 id="2-清理缓存索引"><a href="#2-清理缓存索引" class="headerlink" title="2.    清理缓存索引"></a>2.    清理缓存索引</h3><p>运行如下命令，可以删除conda中的缓存索引：</p>
+<p><code>conda clean -i</code></p>
+<p>但实际上我反复试了上述操作均无效，就在我一筹莫展之际，我看到了这样一条建议：</p>
+<p><code>try close your VPN</code></p>
+<h3 id="WOW，it-works"><a href="#WOW，it-works" class="headerlink" title="WOW，it works!"></a>WOW，it works!</h3><p>###I could never have guessed it!</p>
+]]></content>
+  </entry>
+  <entry>
     <title>如何下载ERA5再分析数据</title>
     <url>/Download-ERA5/</url>
     <content><![CDATA[<h2 id="1-CDS注册和登录"><a href="#1-CDS注册和登录" class="headerlink" title="1.CDS注册和登录"></a>1.CDS注册和登录</h2><p>ERA5从2019年3月5日开始，只能使用CDS API进行下载，需要注册CDS用户，</p>
