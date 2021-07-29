@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>关于conda报错an unexpected error has occurred. conda has prepared the above report的解决办法</title>
+    <url>/conda/</url>
+    <content><![CDATA[<h2 id="发现问题"><a href="#发现问题" class="headerlink" title="发现问题"></a>发现问题</h2><p>一开始是要安装ffmpeg，conda和pip安装都没有成功，在网上搜索发现正确的步骤是</p>
+<p><code>conda update conda</code></p>
+<p><code>conda install ffmpeg</code></p>
+<p>然后我就发现conda没法升级，conda update conda之后会提示出错<code>an unexpected error has occurred. conda has prepared the above report</code></p>
+<h2 id="解决问题"><a href="#解决问题" class="headerlink" title="解决问题"></a>解决问题</h2><p>在网上搜索了一下，发现确实有很多人都遇到了这个问题，但是解决办法五花八门。</p>
+<h3 id="1-删除-condarc文件"><a href="#1-删除-condarc文件" class="headerlink" title="1.    删除.condarc文件"></a>1.    删除.condarc文件</h3><p>这个文件一般位于C:\User\Administrator.condarc，如果设置了清华/中科大源，里面会保存这些镜像源的地址，删除了这个文件其实就是类似于恢复使用官方源。</p>
+<h3 id="2-清理缓存索引"><a href="#2-清理缓存索引" class="headerlink" title="2.    清理缓存索引"></a>2.    清理缓存索引</h3><p>运行如下命令，可以删除conda中的缓存索引：</p>
+<p><code>conda clean -i</code></p>
+<p>但实际上我反复试了上述操作均无效，就在我一筹莫展之际，我看到了这样一条建议：</p>
+<p><code>try close your VPN</code></p>
+<h3 id="WOW，it-works"><a href="#WOW，it-works" class="headerlink" title="WOW，it works!"></a>WOW，it works!</h3><p>###I could never have guessed it!</p>
+]]></content>
+  </entry>
+  <entry>
     <title>为什么气象局不敢预报40℃以上的高温？</title>
     <url>/highT/</url>
     <content><![CDATA[<p>转眼间，冬去春来，马上夏天又快到了。夏天最让人忍受不了的应该就是高温热浪天气了，每到这个时候，我都恨不得天天躲在空调房里不出来。不知从什么时候开始，有一个关于高温的谣言一直在民间流传，那就是“气象局不敢预报40℃以上的高温”。</p>
